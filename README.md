@@ -35,12 +35,13 @@ Pré-requisitos: Java 17
 git clone https://github.com/JacquelineCasali/dslist-java
 
 # entrar na pasta do projeto back end
+cd dslist
+cd backend
 
-# executar o projeto
+# executar o projeto cpm
 ./mvnw spring-boot:run
 
-Autora
-Jacqueline Casali
+Autor:Amós Laurindo
 
 https://www.linkedin.com/in/jaquelinecasali/
 
