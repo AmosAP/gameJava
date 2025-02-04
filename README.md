@@ -1,9 +1,9 @@
 
 ## Imagem Overview do projecto Frontend e Backend
-![games.jpeg]([games.png](imagem4.jpeg)
+![image_alt](imagem4.jpeg)
 
 ## 🛠 Imagem do Projeto
-![games.png](games.png)
+
 ![gameslist](https://github.com/user-attachments/assets/70ef23a7-8a44-408d-8dbc-243322c9a19a)
 
 
@@ -13,7 +13,7 @@ https://dslist-java.onrender.com/swagger-ui/index.html
 obs: o projeto está hospedado no render gratuito demora um pouco para rodar 
 
 ## Modelo de domínio DSList
-![img.png](img.png)
+![image_alt](img.png)
 
 ## 🛠 Tecnologias utilizadas
 
